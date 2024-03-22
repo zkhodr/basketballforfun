@@ -32,3 +32,4 @@
 [22-Mar-2024 22:16:57 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
 [22-Mar-2024 22:30:44 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
 [22-Mar-2024 22:31:40 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[22-Mar-2024 22:33:49 UTC] PHP Warning:  Undefined variable $indicator_pro_installed in /wordpress/wp-content/themes/renden-eblog/functions.php on line 82
